@@ -14,7 +14,7 @@ I’m a full-stack developer with a strong focus on backend architecture, enterp
 - 🎨 Tailwind, Material UI
 
 ### 🏢 Enterprise
-- 💾 **COBOL Mainframe**
+- 💾 **COBOL/NATURAL Mainframe**
 - 🏛️ Legacy-to-modern app migration
 - 🧩 API bridges between COBOL & RESTful services
 
